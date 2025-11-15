@@ -1,4 +1,6 @@
+
 Flask
 gunicorn
 Pyrebase4
 python-dateutil
+setuptools
