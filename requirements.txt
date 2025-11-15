@@ -4,3 +4,4 @@ gunicorn
 Pyrebase4
 python-dateutil
 setuptools
+firebase-admin
