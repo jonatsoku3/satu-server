@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "satu-license-server",
+  "private_key_id": "d8dccca5e7e8b5c20e3a703d9c8cc535ad88cc85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFU0SKFDhXmvqY\nJd+1HBqp4rAtlmElQMf1cFBkivX56VT+NqwQb/huU4iMrdugtB06IrmdIrrXQpEC\njx0uzUmlpZ+PeUp6kFqL/lxkkwlyUNhRFs9W6yn2Oxbf2ttHtgrgC1L15j/gz2FW\n0KYX/MCkriilrqO8QzoOI0H4LFOwCT5h7euYllWxI5Rw0MDgtFUaO1ejqMt4El+4\nK4TDqSJ0nlgRmrnZ1IR1/9+4E8sJjbNJGJn0bA4Sr4CKLML2ACDvWyuadqBw4ckC\nwowcF0QNtBy7Zs5APQLk18esbeGQ42jG6clR4yEenhyrZgorF25D7tXzImvcXKMo\niBsPq0bpAgMBAAECggEAC7f6p6OfRqP2KBqEYFuzVq2sg6ySXOAYb/epV+tBGUQq\n72+nmiX4MEnRinSZyOphcPjWd/dJIYG7HcE057kP27X2wFJ2TUns4rMADDCyRyx3\ncvYNPrl3vr86yB/AgDqsBysM/ycF2fqe6oUOKXmx0Xs5VUDw9Dw0LVpD2kf8TrAx\nogVnPZPun/tSlMCjOFS0Fa8xzmXwGp0N7VmchQpVot1Cp40xZyhR6QeomfqESua+\nnUUMtUVJw4SHdrCnyNF5S+5ThQGsyIoFjsLa8Pbr/0gw6HiPbaiNyavvgQPQX/mg\nXDRhfue7Rdqp+VB/alAaajxWBuPyPKfGd3PcbqZrzQKBgQD83MyZEcDgKIvUnUuY\nAVu4AIU5iSNCVqMpq4Mj4YyS4fs6yzud0qjTCcEwuhQxHwWM1Fn8mzGi2TX+kPJa\nGZf5Ri1Nghg1qnLOAYamRmcGNMs8tOj++T947Rr8hZfj6aZExyGpkdPVOTM+jEtg\nefMfH/TY/AKxbzOtxC6voqJmfQKBgQDHxg7nnIXIJu0vssWgQVxYsPreeiF7Qn9k\n/GGoT1WUy1YNgcEIya8pM+Hr/pldQWavtzGJAjVvJTf/W7kjDGqPIWbG2XK6U4nI\nYNDK5TyXLXpVflcY1lSqlSHZnrBobiFHjOmeFC5woY8IdbWL+tR82n1mPTEpO77+\nRHzFItyR3QKBgQCjwywOhlzvz9KfpC9tBpQsGsotdQ+MyydouVd5SX4NMqXOcgju\nMZx88PhZYmnpVjn19yFAZBJFcX9ymtUaXTD7k+OLKxIaz4UCviJCVZ4res2VR2UO\nnMXqv0SW/r5cMNop+P1oILWchisV+y5mERTPt5aPYMctuuMxSrkhrqaW0QKBgDqd\nbTAd587jRQKSxJORueO4AdOXKA2/ZBugRZMZu/WNd7E82gOXEZLYSzhwGlWXY+a4\nrIsTn9P9qqF9KyQSd42Jcltz38q1yh6F8Z0mh5Gf4V4GVM3PzUXDvgvZGM97SL5y\npPUh3MJlVM9ZoivxK7l6bgK6f5smkZKPS8CXyvntAoGBALOy1d5qZA+didIrBx4H\n7XNYWSsNY2KdCs7FT6nHc7A21Q2B0LbxSPx9Z3DmdBQ6aQB7jqPfmVICAbEhhq61\nfH+GbK21W+gW8vrMifphCJIXNxMvJr68DNoTJfS5tOFoxeZ7a79v0FI8TfeigUHt\nl81tOEG0ZI/17QoutJXg582/\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@satu-license-server.iam.gserviceaccount.com",
+  "client_id": "100730708313294906667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40satu-license-server.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
