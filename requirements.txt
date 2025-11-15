@@ -1,7 +1,4 @@
-
 Flask
 gunicorn
-Pyrebase4
 python-dateutil
-firebase-admin
-
+requests
